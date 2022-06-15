@@ -1,6 +1,6 @@
 ### Hi there , It's Nabid Anzum
-#### I am Web Developer
-I have graduated in Computer Science and Engineering. I develop website's back end using PHP, JS, AJAX using **MVC** approach. I am a **competitive programmer**. I have participated in various onsite and online programming contest.**Certified iOS developer** under Advanced App Development course from BASIS-BITM.
+***
+I have experience in working with version control systems. I am a competitive programmer. I have participated in many onsite and online programming contests including ICPC regional contest. Solved more than 3000 problems in various Online judges. I also have working experience with WooCommerce, Dokan, WPML, Happy Addons and WP User Frontend plugins. I have also worked with Elementor Page Builder.
 ***
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabid-anzum)
