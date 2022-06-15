@@ -39,7 +39,7 @@ Python, PHP, ASP .Net, JS, AJAX, HTML, CSS
 > I am an engineering graduate in the field of Computer Science and Engineering and a professional Software Engineer with an enthusiastic interest in both web app and mobile app development. As a developer, I have the expertise in back-end development with a vast knowledge of problem solving including algorithms and data structure, and have intermediate skills in front-end development. As an enthusiastic learner, I always seek to learn through developing and I have a goal to become a specialized full stack developer to contribute significantly in the field of software engineering. 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tanmayjay">
+    <img src="https://komarev.com/ghpvc/?username=nabid-anzum">
 </a>
 
 
